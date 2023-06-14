@@ -1,3 +1,6 @@
+# This file should be added before running the "git init"
+## This file should be present before git initialization.
+
 **.terraform*/*
 
 **.tfstate
